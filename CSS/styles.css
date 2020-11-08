@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(230, 185, 167);
+}
+
+hr {
+    border-style: none;
+    border-top: 10px dotted lightcoral;
+    width: 10%;
+}
